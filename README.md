@@ -1,0 +1,1 @@
+Fake News Detection Using NLP, utilizes  NLP techniques(BoW) to identify and combat misinformation. By analyzing language patterns in news articles and  posts, the system can accurately distinguish between genuine and fake news. This project can be used  to promote media literacy and create a safer information environment for all
